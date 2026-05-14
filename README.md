@@ -20,10 +20,10 @@ My personal portfolio website showcasing my projects, skills, certifications, an
 - Other projects
 
 ## Live Demo
-https://
+https://github.io/raghuvar-v/My_Portfolio
 
 ## Github Repository
-https://github.com/raghuvar-v/portfolio
+https://github.com/raghuvar-v/My_Portfolio
 
 ## Author
 Raghuvar Vaishnav

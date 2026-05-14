@@ -20,7 +20,7 @@ My personal portfolio website showcasing my projects, skills, certifications, an
 - Other projects
 
 ## Live Demo
-https://github.io/raghuvar-v/My_Portfolio
+https://raghuvar-v.github.io/My_Portfolio
 
 ## Github Repository
 https://github.com/raghuvar-v/My_Portfolio
